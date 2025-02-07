@@ -1,0 +1,11 @@
+{
+    "name": "Upcoming Austin Concerts",
+    "version": "0.1",
+    "description": "Extension to get a list of upcoming concerts in Austin",
+    "manifest_version": 3,
+    "author": "Hunter Davis",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Upcoming Austin Concerts"
+    }
+}
